@@ -1,11 +1,10 @@
 {
-  "name": "react-firebase-hooks",
-  "version": "2.2.0",
-  "description": "React Hooks for Firebase",
-  "author": "CS Frequency Limited (https://csfrequency.com)",
+  "name": "klutch-firebase-hooks",
+  "version": "1.1.1",
+  "description": "Fork of react-firebase-hooks",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/csfrequency/react-firebase-hooks",
-  "bugs": "https://github.com/csfrequency/react-firebase-hooks/issues",
+  "homepage": "https://github.com/klutchdev/klutch-firebase-hooks",
+  "bugs": "https://github.com/klutchdev/klutch-firebase-hooks/issues",
   "keywords": [
     "react",
     "hooks",
@@ -37,7 +36,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/csfrequency/react-firebase-hooks.git"
+    "url": "https://github.com/klutchdev/klutch-firebase-hooks.git"
   },
   "scripts": {
     "build": "npm run clean && rollup -c",
